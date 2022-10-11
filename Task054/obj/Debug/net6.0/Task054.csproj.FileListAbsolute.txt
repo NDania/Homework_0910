@@ -1,0 +1,15 @@
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.csproj.AssemblyReference.cache
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.AssemblyInfoInputs.cache
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.AssemblyInfo.cs
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.csproj.CoreCompileInputs.cache
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\bin\Debug\net6.0\Task054.exe
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\bin\Debug\net6.0\Task054.deps.json
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\bin\Debug\net6.0\Task054.runtimeconfig.json
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\bin\Debug\net6.0\Task054.dll
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\bin\Debug\net6.0\Task054.pdb
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.dll
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\refint\Task054.dll
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.pdb
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\Task054.genruntimeconfig.cache
+C:\Users\Dania\Desktop\0810_Homework\Homework_0910\Task054\obj\Debug\net6.0\ref\Task054.dll
